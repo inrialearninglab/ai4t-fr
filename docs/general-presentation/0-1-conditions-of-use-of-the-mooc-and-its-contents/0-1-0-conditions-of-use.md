@@ -1,7 +1,7 @@
 ---
-title: Conditions of use of the content of the Mooc
+title: Conditions d'utilisation des contenus du Mooc
 description:
 ---
 
-During the pilot phase the content should not be shared outside the consortium members.  
-The conditions of use after the pilot and experimentation phases of the final ressources are now discussed within the AI4T project.
+Pendant la phase pilote, le contenu ne doit pas être partagé en dehors des membres du consortium.  
+Les conditions d'utilisation des ressources, après les phases de pilote puis d'expérimentation, font l'objet d'une discussion au sein du consortium d'AI4T. AI4T.

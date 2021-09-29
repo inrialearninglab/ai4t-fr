@@ -1,11 +1,12 @@
 ---
-title: Why this Mooc?
+title: Pourquoi ce Moooc?
 description:
 ---
 
-Used by everyone from now on, the term "artificial intelligence" needs to be explained and understood in order to be able to appropriate it and to take the necessary distance from the numerous preconceived ideas on the subject.  
-The objective of this online resource is to share a minimal culture on Artificial Intelligence, or rather AI components, in particular in the school context, and to give everyone the possibility to better master the issues and the use of these technologies.
+Employé par toutes et tous désormais, le terme d’“intelligence artificielle” nécessite d’être expliqué et compris afin de pouvoir se l’approprier et de prendre le recul nécessaire face aux idées reçues qui sont nombreuses sur le sujet.
+L'objectif de cette ressource en ligne est de partager une culture minimale sur l'intelligence artificielle, ou plutôt les composants de l'IA, en particulier dans le contexte scolaire, et de donner à chacun la possibilité de mieux maîtriser les enjeux et les utilisations de ces technologies.
 
-#### A content based on IAI Class'Code Mooc
 
-This online ressource is essentially based on the content of the French Mooc "[L'Intelligence Artificielle... avec intelligence!](https://www.fun-mooc.fr/en/cours/lintelligence-artificielle-avec-intelligence/)" available on Fun Mooc and produced in 2020 by Class'Code, Inria, Magic Maker, S24B l'Interactive, with the participation of 4minutes34, Data Bingo, the University of Nantes, La Compagnie du Code, La Ligue de l'enseignement and the support of the French Ministry of National Education and Youth, UNIT, EducAzur and leblob.fr.
+#### Un contenu basé sur le Mooc Intelligence Artificielle avec Intelligence de Class'Code  
+
+Cette ressource en ligne est essentiellement basée sur le contenu du Mooc français "[L'Intelligence Artificielle... avec intelligence!](https://www.fun-mooc.fr/en/cours/lintelligence-artificielle-avec-intelligence/)" accessible sur Fun Mooc et produit en 2020 par Class'Code, Inria, Magic Maker, S24B l'Interactive, avec la participation de 4minutes34, Data Bingo, l'Université de Nantes, La Compagnie du Code, La Ligue de l'enseignement et le soutien du Ministère de l'Education Nationale et de la Jeunesse , UNIT, EducAzur et leblob.fr.
