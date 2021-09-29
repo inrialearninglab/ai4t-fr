@@ -1,36 +1,37 @@
 ---
-title: Play with the Machine's Neurons
+title: Jouez avec les neurones de la machine
 description:
 ---
 
-The online software **[TensorFlow](https://www.tensorflow.org/overview/)** allows to build artificial neural networks and to test their responses for different types of problems and on different types of data. In the "Classification" problem type, the objective is to separate blue and orange coloured points. An application of this type of problem is, for example, a photo classification algorithm. In the example below, there is one input (feature) that separates the points horizontally and another that separates vertically. By combining these two inputs, we obtain an oblique separation. The result (output) is well adapted to the type of data chosen.
-
-![Tensor flow playground view](../Images/tensor-flow.png)
+Le logiciel en ligne **[TensorFlow](https://www.tensorflow.org/overview/)**  permet de constituer des réseaux de neurones artificiels et de tester leurs réponses pour différents types de problèmes et ce, sur différents types de données (data). Dans le type de problème «Classification », l'objectif est de séparer les points de couleur bleue et les points de couleur orange. Une application de ce type de problème est, par exemple, un algorithme de classement de photographies. Dans l'exemple ci-dessous, il y a une entrée (feature) qui sépare horizontalement les points et une autre qui sépare verticalement En combinant ces deux entrées, on obtient une séparation oblique. Le résultat obtenu (output) est bien adapté au type de données choisi (data).
 
 
-###TensorFlow: Some explanations before trying the simulation of a neural network
+![Vue du playground de Tensor flow](../Images/tensor-flow.png)
+
+
+###TensorFlow : Quelques explications avant d'essayer la simulation d'un réseau de neurones
 
 _Source: translation from [Pixees French web site](https://pixees.fr/jouez-avec-les-neurones-de-la-machine/)_
 
-**What is a neural network and how does it work?**
-A neural network is a generic mechanism composed of small units (pseudo-neurons) connected to each other. Each unit performs a very simple operation: it takes input values, combines them very simply (a simple averaging with coefficients) and applies a transformation on the result (e.g. keeps only positive values).
+**Qu'est-ce qu'un réseau neuronal et comment fonctionne-t-il?**
+Un réseau neuronal est un mécanisme générique composé de petites unités (pseudo-neurones) connectées entre elles. Chaque unité effectue une opération très simple : elle prend des valeurs en entrée, les combine très simplement (une simple moyenne avec des coefficients) et applique une transformation sur le résultat (par exemple, ne garder que les valeurs positives).
 
-The coefficients used to weight the average are the parameters of this algorithm. It is the combination of a very, very large number of these units that allows very complex operations to be performed. A network of such "neurons" is obtained by accumulating several layers of such units. The input is the data that we want to process. They are transformed through all the layers and the last layer gives as output a prediction on this data, for example to detect if there is a face in an image. The neural network is thus a parameterized function with many coefficients (called "weights") and it is the choice of these weights that defines the processing carried out.
+Les coefficients utilisés pour pondérer la moyenne sont les paramètres de cet algorithme. C'est la combinaison d'un très, très grand nombre de ces unités qui permet d'effectuer des opérations très complexes. Un réseau de tels "neurones" est obtenu en accumulant plusieurs couches de ces unités. L'entrée est constituée des données que l'on veut traiter. Elles sont transformées à travers toutes les couches et la dernière couche donne en sortie une prédiction sur ces données, par exemple pour détecter s'il y a un visage dans une image. Le réseau de neurones est donc une fonction paramétrée avec de nombreux coefficients (appelés "poids") et c'est le choix de ces poids qui définit le traitement effectué.
 
-**Where are the neurons in TensorFlow?**
-On the TensorFlow web interface, a network of a dozen neurons, each with between 3 and 10 parameters, can easily be created. The calculated output thus depends on hundreds of parameters in addition to the two coordinates (x,y) of the input point. On the interface, each square represents a neuron and the colour of the pixel of coordinates (x,y) in the square represents the output of the neuron when we put (x,y) in input of the network. If there is only one neuron at the output, it is represented with a larger square on the right of the network. The parameters of the network are initialized with random values.
+**Où sont les neurones dans TensorFlow ?**
+Sur l'interface web de TensorFlow, on peut facilement créer un réseau d'une dizaine de neurones, chacun ayant entre 3 et 10 paramètres. La sortie calculée dépend donc de centaines de paramètres en plus des deux coordonnées (x,y) du point d'entrée. Sur l'interface, chaque carré représente un neurone et la couleur du pixel de coordonnées (x,y) dans le carré représente la sortie du neurone lorsqu'on met (x,y) en entrée du réseau. S'il n'y a qu'un seul neurone en sortie, il est représenté par un carré plus grand à droite du réseau. Les paramètres du réseau sont initialisés avec des valeurs aléatoires.
 
-**But how do you learn these weights?**
-Supervised learning consists of providing examples of data with the solution to be found in order to train the network to adjust these weights as required. In the example in the figure above, it is a series of points in a square, each with an expected colour (blue or orange), with the aim of predicting the colour of the point at a given location.  A classical algorithm of progressive adjustment of the weights is used to find the parameters in question.
-The "play" button at the top left of the interface is used to launch this algorithm, and the output of the neural network is then seen to evolve during the "learning" process: the background colour of the output neuron tends to take on the colour of the training points that are drawn over it. Another part of the dataset is then used to test the quality of the resulting function of the network. A curve at the top right shows the error rate of the data used for learning (to check that the weights have adjusted properly) and the error rate of the other test data (to check that what has been learned generalises well to new data). Buttons on the left side allow to adjust the distribution of the data between the training and the test set and also to add errors to the data (noisy data) to see if the mechanism is robust to these errors.
+**Mais comment apprendre ces poids ?**
+L'apprentissage supervisé consiste à fournir des exemples de données avec la solution à trouver afin d'entraîner le réseau à ajuster ces poids en fonction des besoins. Dans l'exemple de la figure ci-dessus, il s'agit d'une série de points dans un carré, chacun avec une couleur attendue (bleu ou orange), dans le but de prédire la couleur du point à un endroit donné.  Un algorithme classique d'ajustement progressif des poids est utilisé pour trouver les paramètres en question.
+Le bouton "play" en haut à gauche de l'interface permet de lancer cet algorithme, et l'on voit alors la sortie du réseau de neurones évoluer au cours du processus "d'apprentissage" : la couleur de fond du neurone de sortie tend à prendre la couleur des points d'entraînement qui sont dessinés sur lui. Une autre partie de l'ensemble de données est ensuite utilisée pour tester la qualité de la fonction résultante du réseau. Une courbe en haut à droite montre le taux d'erreur des données utilisées pour l'apprentissage (pour vérifier que les poids ont été correctement ajustés) et le taux d'erreur des autres données de test (pour vérifier que ce qui a été appris se généralise bien à de nouvelles données). Les boutons sur le côté gauche permettent d'ajuster la distribution des données entre l'ensemble d'apprentissage et l'ensemble de test et aussi d'ajouter des erreurs aux données (données bruitées) pour voir si le mécanisme est robuste à ces erreurs.
 
-In practice, we manage to find satisfactory parameters, but there is no real theoretical framework for formalising all this, it's a matter of experimentation: choosing the right number of neurons, the right number of layers of neurons, what preliminary calculations to add as input (for example multiplying the inputs to increase the degrees of freedom for the calculation).
-These kinds of techniques can produce impressive results in practice, such as in voice or object recognition in an image.
+En pratique, on arrive à trouver des paramètres satisfaisants, mais il n'y a pas vraiment de cadre théorique pour formaliser tout cela, c'est une question d'expérimentation : choisir le bon nombre de neurones, le bon nombre de couches de neurones, quels calculs préliminaires ajouter en entrée (par exemple multiplier les entrées pour augmenter les degrés de liberté du calcul).
+Ce type de techniques peut donner des résultats impressionnants dans la pratique, comme dans la reconnaissance de la voix ou des objets dans une image.
 
-However, understanding why (and how) such good results are obtained is still a fairly open scientific question.
+Cependant, comprendre pourquoi (et comment) de si bons résultats sont obtenus reste une question scientifique assez ouverte.
 
-### Try TensorFlow
+### Essayez TensorFlow
 
-_Click on the image below to access the TensorFlow application in a new window_
+_Cliquez sur l'image ci-dessous pour accéder à l'application TensorFlow dans une nouvelle fenêtre_
 
-[![TensorFlow playground view](../Images/tensor-flow.png)](https://playground.tensorflow.org/#activation=tanh&amp;batchSize=8&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=10&amp;networkShape=5,2&amp;seed=0.02708&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false;target=blank){:target="_blank" }
+[![Vue du playground de TensorFlow](../Images/tensor-flow.png)](https://playground.tensorflow.org/#activation=tanh&amp;batchSize=8&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=10&amp;networkShape=5,2&amp;seed=0.02708&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false;target=blank){:target="_blank" }

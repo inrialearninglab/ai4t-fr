@@ -16,4 +16,4 @@ Acquérir une première compréhension de ce que l’on entend par Intelligence 
 *   [Quiz du  Module 1: Qui a peur de l'IA?](../1-4-quiz-module-1/1-4-0-quiz1-who-is-afraid-of-ai.md)
 
 
-**Investment time:** About 30 minutes
+**Temps d'investissement:** Environ 30 minutes

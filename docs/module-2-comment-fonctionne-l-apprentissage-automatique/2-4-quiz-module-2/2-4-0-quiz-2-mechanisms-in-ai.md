@@ -1,18 +1,18 @@
 ---
-title: Mechanisms in AI
+title: Des mécanismes en IA
 description:
 hide:
 - toc
 ---
 
-### Quiz Module 2: Mechanisms in AI
+### Quiz Module 2: Des mécanismes en IA
 
-Quiz Module 2 contains 3 parts:
+Le Quiz du Module 2 est composé de 3 parties:
 
-- QUIZ 1: Mechanisms in AI
-- QUIZ 2: Machine Learning methods
-- QUIZ 3: AI and data
+- QUIZ 1: Des mécanismes en IA
+- QUIZ 2: Méthodes d'apprentissage automatique
+- QUIZ 3: Données de l'IA
 
-_Click on the image below and start the quiz!_
+_Cliquez sur l'image ci-dessous et lancez le quiz !_
 
 [![Quiz Module 2: Mechanisms in AI](../Images/AI4T-quiz-module2.png)](Quiz-2-ressources/HTML/AI4T-quiz-module2-how-does-machine-learning-works-html/index.html#/lessons/qXewvwMdbXR4wOOcKicXzWTXH44NeOmm){:target="_blank" }

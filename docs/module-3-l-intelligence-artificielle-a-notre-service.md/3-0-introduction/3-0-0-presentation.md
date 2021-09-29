@@ -17,4 +17,4 @@ Comprendre les enjeux et les leviers pour que l’IA soit au service de l’huma
 *   [Découvrir: L'intelligence artificielle à notre service?](../3-3-to-discover-artificial-intelligence-at-our-service/3-3-0-artificial-intelligence-at-our-service.md)
 *   [Quiz Module 3: Humains et IA](../3-4-quiz-module-3/3-4-0-quiz-3-humans-and-ai.md)
 
-**Temps d'investissement :**: environ 40 minutes
+**Temps d'investissement:** environ 40 minutes

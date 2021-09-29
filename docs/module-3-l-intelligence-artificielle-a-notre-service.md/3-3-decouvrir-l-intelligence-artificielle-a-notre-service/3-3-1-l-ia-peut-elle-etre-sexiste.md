@@ -1,5 +1,5 @@
 ---
-title:  L’IA, peut-elle être sexiste ?
+title:  L’IA peut-elle être sexiste ?
 description:
 hide:
 - toc

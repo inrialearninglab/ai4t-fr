@@ -5,7 +5,7 @@ hide:
 - toc
 ---
 
-_Text translated from the online press article in French [(www.lemonde.fr)](https://www.lemonde.fr/blog/binaire/2020/03/25/une-ethique-de-lia-au-futur/) about ethics and machine learning._
+_Article publié sur le blob Binaire [(www.lemonde.fr)](https://www.lemonde.fr/blog/binaire/2020/03/25/une-ethique-de-lia-au-futur/)_
 
 L’Intelligence Artificielle (IA) est au cœur de nombreux débats et polémiques dans la société. Nul domaine de la vie sociale et économique ne semble épargné par le sujet. Ce qui est intéressant à souligner, c’est que dans tous les débats aujourd’hui autour de l’IA, l’éthique est à chaque fois convoquée. Personne ne semble réduire la question de l’IA à une simple problématique technique. En atteste actuellement la prolifération des rapports sur l’éthique de l’IA, produits tant par des entreprises privées, des acteurs publics ou des organisations de la société civile.
 
