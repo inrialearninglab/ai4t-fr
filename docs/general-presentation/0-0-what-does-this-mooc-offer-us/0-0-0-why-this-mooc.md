@@ -1,5 +1,5 @@
 ---
-title: Pourquoi ce Moooc?
+title: Pourquoi ce Mooc?
 description:
 ---
 
