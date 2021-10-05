@@ -8,4 +8,4 @@ Il n'y a pas de meilleur moyen de comprendre le fonctionnement de l'apprentissag
 **A vous de jouer!**  
 _Cliquez sur l'image ci-dessous et laissez-vous guider!_
 
-[![Tutorial2: Boosted with AI](../Images/IA-M.2.1.2.png)](https://pixees.fr/classcodeiai/app/tuto2?lang=en){:target="_blank" }
+[![Tutoriel 2: Boosté à l'IA](../Images/IA-M.2.1.2.png)](https://pixees.fr/classcodeiai/app/tuto2?lang=fr){:target="_blank" }

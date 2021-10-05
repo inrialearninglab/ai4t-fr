@@ -9,4 +9,4 @@ On vous explique que ça n'a rien de magique ; et d'ailleurs allez-y, testez en 
 **Ça vous tente d'expérimenter ?**  
 _Cliquez sur l'image ci-dessous et laissez-vous guider !_
 
-[![Image of Tutorial 1](../Images/Tuto-M1-FirstProgram.png)](https://pixees.fr/classcodeiai/app/tuto1?lang=en){:target="_blank" }
+[![Tutoriel 1 : Vous avez dit IA ?](../Images/Tuto-M1-FirstProgram.png)](https://pixees.fr/classcodeiai/app/tuto1?lang=fr){:target="_blank" }
