@@ -1,7 +1,6 @@
 ---
-title: Conditions d'utilisation des contenus du Mooc
+title: Conditions d'utilisation des contenus du Cours
 description:
 ---
 
-Pendant la phase pilote, le contenu ne doit pas être partagé en dehors des membres du consortium.  
-Les conditions d'utilisation des ressources, après les phases de pilote puis d'expérimentation, font l'objet d'une discussion au sein du consortium d'AI4T.
+Les contenus de ce cours sont réservés aux personnes inscrites à la phase d'expérimentation du Mooc.

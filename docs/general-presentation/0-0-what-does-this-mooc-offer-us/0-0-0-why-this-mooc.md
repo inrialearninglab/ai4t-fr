@@ -3,8 +3,8 @@ title: Pourquoi ce Mooc?
 description:
 ---
 
-Employé par toutes et tous désormais, le terme d’“intelligence artificielle” nécessite d’être expliqué et compris afin de pouvoir se l’approprier et de prendre le recul nécessaire face aux idées reçues qui sont nombreuses sur le sujet.
-L'objectif de cette ressource en ligne est de partager une culture minimale sur l'intelligence artificielle, ou plutôt les composants de l'IA, en particulier dans le contexte scolaire, et de donner à chacun la possibilité de mieux maîtriser les enjeux et les utilisations de ces technologies.
+Employé par toutes et tous désormais, le terme “intelligence artificielle” nécessite d’être expliqué et compris afin de pouvoir se l’approprier et de prendre le recul nécessaire face aux idées reçues qui sont nombreuses sur le sujet.
+L'objectif de cette ressource en ligne est de partager une culture minimale sur l'intelligence artificielle et ses composants, en particulier dans le contexte scolaire, et de donner à chacun la possibilité de mieux maîtriser les enjeux et les utilisations de ces technologies.
 
 
 #### Un contenu basé sur le Mooc Intelligence Artificielle avec Intelligence de Class'Code  
