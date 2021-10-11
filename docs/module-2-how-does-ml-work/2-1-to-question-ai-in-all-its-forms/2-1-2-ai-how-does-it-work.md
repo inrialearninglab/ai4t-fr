@@ -1,5 +1,5 @@
 ---
-title: IA : comment ça marche ?
+title: IA &#58; comment ça marche ?
 description:
 ---
 
@@ -14,9 +14,9 @@ Le mécanisme de calcul doit donc ajuster des paramètres internes (comme les bo
 
 Ce mécanisme de réseau de neurones artificiels, est bien différent des neurones de notre cerveau : ce sont juste des unités de calcul élémentaires qui combinent des données en entrée et délivre une valeur basse ou élevée en sortie selon la valeur combinée. Un réseau de neurones regroupe un ensemble de neurones tous liés et communicants entre eux. Ce sont les paramètres de ces connections entre neurones qui constituent les boutons de réglage pour obtenir la sortie souhaitée, pour une entrée donnée. Des neurones d’entrée aux neurones de sortie, en passant par les neurones internes au réseau (neurones cachés), l’information numérique est transmise pour donner un résultat final.
 
-On parle d'**apprentissage profond, deep learning** quand il y a beaucoup de couches cachées empilées, pour rendre le calcul plus efficace
+On parle d'**apprentissage profond, deep learning,** quand il y a beaucoup de couches cachées empilées, pour rendre le calcul plus efficace.
 
-On parle de **réseaux de neurones convolutifs** quand les neurones regroupent l’information des autres neurones au voisinage avant de transmettre la sortie aux couches supérieures. Par exemple, lors de l’analyse d’une image, un réseau de neurones convolutif va créer des filtres pour regrouper l’information d’une petite zone de l’image. Par exemple le contraste, ou un élément de couleur, puis à la couche suivante des petites zones correspondant à des éléments de base comme un trait ou une zone un peu ronde, et petit à petit le mécanisme reconnaît un chat aussi bien que Philippe Geluck, c’est bluffant. Mais alors, quel raisonnement a-t-il été mis en place pour distinguer les images avec et sans chat ? Et bien, aucun ! C’est juste du calcul, un calcul aveugle en quelque sorte. Et on ne sait pas bien aujourd’hui interpréter un tel calcul. C’est ce qu’on appelle la boîte noire de l’IA<sup>2</sup>.
+On parle de **"réseaux de neurones convolutifs"** quand les neurones regroupent l’information des autres neurones au voisinage avant de transmettre la sortie aux couches supérieures. Par exemple, lors de l’analyse d’une image, un réseau de neurones convolutif va créer des filtres pour regrouper l’information d’une petite zone de l’image. Par exemple le contraste, ou un élément de couleur, puis à la couche suivante des petites zones correspondant à des éléments de base comme un trait ou une zone un peu ronde, et petit à petit le mécanisme reconnaît un chat aussi bien que Philippe Geluck, c’est bluffant. Mais alors, quel raisonnement a-t-il été mis en place pour distinguer les images avec et sans chat ? Et bien, aucun ! C’est juste du calcul, un calcul aveugle en quelque sorte. Et on ne sait pas bien aujourd’hui interpréter un tel calcul. C’est ce qu’on appelle la boîte noire de l’IA<sup>2</sup>.
 
 * * *
 <sup>2</sup>_[Comprendre le DeepLearning et les Réseaux de neurones en 10 mins !](https://www.youtube.com/watch?v=gPVVsw2OWdM)_ vidéo, Sociamix, août 2019

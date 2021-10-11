@@ -3,7 +3,7 @@ title: Boosté à l'IA?
 description:
 ---
 
-Il n'y a pas de meilleur moyen de comprendre le fonctionnement de l'apprentissage automatique et de la formation des programmes que de comprendre comment préparer correctement votre ensemble de données.
+Rien de mieux pour comprendre comment fonctionne l'apprentissage machine et l'entraînement d'un programme, que de comprendre comment bien préparer son jeu de données.
 
 **A vous de jouer!**  
 _Cliquez sur l'image ci-dessous et laissez-vous guider!_

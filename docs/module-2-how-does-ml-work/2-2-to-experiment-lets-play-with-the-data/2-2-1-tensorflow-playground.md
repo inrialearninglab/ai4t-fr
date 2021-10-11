@@ -3,7 +3,7 @@ title: Jouez avec les neurones de la machine
 description:
 ---
 
-Le logiciel en ligne **[TensorFlow](https://www.tensorflow.org/overview/)**  permet de constituer des réseaux de neurones artificiels et de tester leurs réponses pour différents types de problèmes et ce, sur différents types de données (data). Dans le type de problème «Classification », l'objectif est de séparer les points de couleur bleue et les points de couleur orange. Une application de ce type de problème est, par exemple, un algorithme de classement de photographies. Dans l'exemple ci-dessous, il y a une entrée (feature) qui sépare horizontalement les points et une autre qui sépare verticalement En combinant ces deux entrées, on obtient une séparation oblique. Le résultat obtenu (output) est bien adapté au type de données choisi (data).
+Le logiciel en ligne **[TensorFlow](https://www.tensorflow.org/overview/)**  permet de constituer des réseaux de neurones artificiels et de tester leurs réponses pour différents types de problèmes et ce, sur différents types de données (data). Dans le type de problème **«Classification»**, l'objectif est de **séparer les points de couleur bleue et les points de couleur orange**. Une application de ce type de problème est, par exemple, un algorithme de classement de photographies. Dans l'exemple ci-dessous, il y a une entrée (feature) qui sépare horizontalement les points et une autre qui sépare verticalement En combinant ces deux entrées, on obtient une séparation oblique. Le résultat obtenu (output) est bien adapté au type de données choisi (data).
 
 
 ![Vue du playground de Tensor flow](../Images/tensor-flow.png)
@@ -11,7 +11,7 @@ Le logiciel en ligne **[TensorFlow](https://www.tensorflow.org/overview/)**  per
 
 ###TensorFlow : Quelques explications avant d'essayer la simulation d'un réseau de neurones
 
-_Source: translation from [Pixees French web site](https://pixees.fr/jouez-avec-les-neurones-de-la-machine/)_
+_Source : [Pixees French web site](https://pixees.fr/jouez-avec-les-neurones-de-la-machine/)_
 
 **Qu'est-ce qu'un réseau neuronal et comment fonctionne-t-il?**
 Un réseau neuronal est un mécanisme générique composé de petites unités (pseudo-neurones) connectées entre elles. Chaque unité effectue une opération très simple : elle prend des valeurs en entrée, les combine très simplement (une simple moyenne avec des coefficients) et applique une transformation sur le résultat (par exemple, ne garder que les valeurs positives).

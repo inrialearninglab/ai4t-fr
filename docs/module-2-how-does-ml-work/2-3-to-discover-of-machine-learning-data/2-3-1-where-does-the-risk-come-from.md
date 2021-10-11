@@ -3,7 +3,7 @@ title: D'où vient le risque ?
 description:
 ---
 
-[Article publié le 20 Février 2020 par binaire sur le site du Monde "D’où vient le risque ? Des données et des algorithmes" - _Autheurs: Serge Abiteboul, Thierry Viéville_](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) 
+[Article publié le 20 Février 2020 par binaire sur le site du Monde : "D’où vient le risque ? Des données et des algorithmes" - _Autheurs: Serge Abiteboul, Thierry Viéville_](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) 
 
 _La rencontre de chercheurs juristes et informaticiens dans le cadre du lancement du [Centre Internet et Société](http://cis.cnrs.fr/)  et du montage du GdR Internet et Société, a été l'occasion de réflexions croisées et de soulever nombre de questions et premières pistes de recherche à explorer ensemble. Cet article résume le résultat d’une table ronde. **Serge Abiteboul, Thierry Viéville.**_
 
@@ -61,7 +61,7 @@ Il convient également de citer toute une palette de biais cognitifs
 <center><img src="../Images/AI4T-M2.3-Data-and-algorithms-2.png" alt=Illustration de Sihem Amer-Yahia" width="600">  
 ©Sihem Amer-Yahia</center>
 
-ALes algorithmes sont une série d’instructions qui manipulent des données en entrée et retournent des données en sortie. Ces données en entrée véhiculent parfois des biais. Les biais peuvent aussi se trouver dans une ou plusieurs instructions des algorithmes.
+Les algorithmes sont une série d’instructions qui manipulent des données en entrée et retournent des données en sortie. Ces données en entrée véhiculent parfois des biais. Les biais peuvent aussi se trouver dans une ou plusieurs instructions des algorithmes.
 
 #### Doit-on aborder les risque-données et risque-algorithmes sur les plateformes numériques ensemble ou séparément ?
 
@@ -71,7 +71,7 @@ Sur la blockchain, l’on retrouve tout d’abord les données, les risques et l
 
 Autre exemple sur les algorithmes et les risques associés, l’échange de cryptomonnaies sur des plateformes voit se développer et se diversifier les infrastructures de marché. L’ambition est «_de permettre la mise en place d’un environnement favorisant l’intégrité, la transparence et la sécurité des services concernés pour les investisseurs en actifs numériques, tout en assurant un cadre réglementaire sécurisant pour le développement d’un écosystème français robuste_» . La France s’est dotée récemment d’un cadre juridique permettant de réguler ces activités de manière souple. Pour autant, au niveau mondial, les risques attachés à des cotations non transparentes ou à des transactions  suspectes s’apparentant à des manipulations directes de cours ou de pratiques d’investisseurs informés, de type _frontrunning_. Le frontrunning est une technique boursière permettant à un courtier d’utiliser un ordre transmis par ses clients afin de s’enrichir. La technique consiste à profiter des décalages de cours engendrés par les ordres importants passés par les clients du courtier.
 
-LVenons en à la question "doit-on aborder les risque-données et risque-algorithmes sur les plateformes numériques ensemble ou séparément ?" Concernant la blockchain, la réponse du droit est séparée, car les risques saisis sont différents. D’un côté, certaines dispositions du droit pénal, de la responsabilité civile ou de la protection des données à caractère personnel seront mobilisées. Alors que de l’autre côté, en France, le récent cadre juridique visant à saisir les activités des prestataires de services sur actif numérique et à éviter le risque algorithmique est principalement régulatoire.
+Venons en à la question "doit-on aborder les risque-données et risque-algorithmes sur les plateformes numériques ensemble ou séparément ?" Concernant la blockchain, la réponse du droit est séparée, car les risques saisis sont différents. D’un côté, certaines dispositions du droit pénal, de la responsabilité civile ou de la protection des données à caractère personnel seront mobilisées. Alors que de l’autre côté, en France, le récent cadre juridique visant à saisir les activités des prestataires de services sur actif numérique et à éviter le risque algorithmique est principalement régulatoire.
 
 Responsabilité vs. Responsabilisation
 ---------------------------------
@@ -102,5 +102,5 @@ Si la question est celle de la responsabilité (_liability_) et la responsabilis
 **Auteurs:** 
 
 [**Sihem Amer-Yahia**](https://www.linkedin.com/in/sihem-amer-yahia-96072622/?originalSubdomain=fr) (DR CNRS INS2I, Univ. Grenoble-Alpes)
-[**Amélie Favreau**](https://www.linkedin.com/in/am%C3%A9lie-favreau-36b56b109/?originalSubdomain=fr) (MdC Droit Privé, Univ. Grenoble-Alpes)
+[**Amélie Favreau**](https://www.linkedin.com/in/am%C3%A9lie-favreau-36b56b109/?originalSubdomain=fr) (MdC Droit Privé, Univ. Grenoble-Alpes) 
 [**Juliette Sénéchal**](https://pro.univ-lille.fr/juliette-senechal/) (MdC Droit Privé, Univ. de Lille)
