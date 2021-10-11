@@ -6,7 +6,7 @@ description:
 
 Aujourd’hui l'intelligence artificielle est présente dans bon nombre de technologies que nous utilisons quotidiennement : dans nos ordinateurs, nos téléphones portables, nos montres, nos enceintes… Elle est même présente dans nos moteurs de recherche et sur les réseaux sociaux. C’est probablement ce qui explique le nouvel engouement qu’elle connaît aujourd’hui, elle nous passionne parce qu’elle a permis de booster nos technologies et donc d’avoir de meilleurs usages de celles-ci.
 
-Pour autant, ** l’IA est une discipline scientifique ancienne**, elle a d’ailleurs officiellement été reconnue comme domaine de recherche en 1956 et l’avancée des recherches dans ce domaine sera en essor jusqu’en 1974.
+Pour autant, **l’IA est une discipline scientifique ancienne**, elle a d’ailleurs officiellement été reconnue comme domaine de recherche en 1956 et l’avancée des recherches dans ce domaine sera en essor jusqu’en 1974.
 
  ![Image First winter for AI](../Images/Hiver_1980.png)
 
