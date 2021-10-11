@@ -50,11 +50,11 @@ L’éthique de l’IA prend-elle bien en compte le fait que les impacts de l’
 
 **Alain Loute** (Centre d’éthique médicale, labo ETHICS EA 7446, Université Catholique de Lille)
 
-<sup>1</sup>(https://www.lemonde.fr/#_ftnref1) [Comment permettre à l’homme de garder la main](https://www.cnil.fr/sites/default/files/atoms/files/cnil_rapport_garder_la_main_web.pdf) ? Les enjeux éthiques des algorithmes et de l’intelligence artificielle, CNIL, 2017.
+<sup>1</sup> [Comment permettre à l’homme de garder la main](https://www.cnil.fr/sites/default/files/atoms/files/cnil_rapport_garder_la_main_web.pdf) ? Les enjeux éthiques des algorithmes et de l’intelligence artificielle, CNIL, 2017.
 
-<sup>2</sup>(https://www.lemonde.fr/#_ftnref2) [Donner un sens à l’intelligence artificielle, Pour une stratégie nationale et européenne](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf), Rapport Villani, 8 mars 2018.
+<sup>2</sup> [Donner un sens à l’intelligence artificielle, Pour une stratégie nationale et européenne](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf), Rapport Villani, 8 mars 2018.
 
-<sup>3</sup>(https://www.lemonde.fr/#_ftnref3) [Ethique de la recherche en apprentissage machine](http://cerna-ethics-allistene.org/digitalAssets/53/53991_cerna___thique_apprentissage.pdf), Avis de la Commission de réflexion sur l’Ethique de la Recherche en sciences et technologies du Numérique d’Allistene (CERNA), juin 2017.
+<sup>3</sup> [Ethique de la recherche en apprentissage machine](http://cerna-ethics-allistene.org/digitalAssets/53/53991_cerna___thique_apprentissage.pdf), Avis de la Commission de réflexion sur l’Ethique de la Recherche en sciences et technologies du Numérique d’Allistene (CERNA), juin 2017.
 
 <sup>4</sup> E. Sardin, La vie algorithmique, Critique de la raison numérique, Ed. L’échappée, Paris 2015, pp. 21-22.
 

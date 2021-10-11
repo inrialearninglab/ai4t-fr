@@ -16,7 +16,7 @@ Dans une interview au magazine [Chut magazine](https://chut.media/portraits/erwa
 
 *   Les emplois **physiques**" pourraient être impactés par la robotisation. Les professionnels seraient remplacés par des machines capables d’effectuer des tâches ardues plus vite et plus efficacement qu’eux.
 
-*   Les emplois "**Intellectuels**" seraient impactés par la digitalisation. Des algorithmes pourraient effectuer des tâches systématiques, rébarbatives et longues plus rapidement que les humains.
+*   Les emplois "**intellectuels**" seraient impactés par la digitalisation. Des algorithmes pourraient effectuer des tâches systématiques, rébarbatives et longues plus rapidement que les humains.
 
 *   Certains professionnels verraient leur quotidien amélioré par des mécanismes d’intelligence artificielle, qui leur permettraient d’être débarrassés de _tâches répétitives_ pour se concentrer sur les aspects les plus importants de leurs métiers.
 
@@ -25,7 +25,7 @@ Dans une interview au magazine [Chut magazine](https://chut.media/portraits/erwa
 
 **Ces prédictions sont-elles probables et doit-on craindre d’être à terme, remplacés majoritairement par des robots dans notre travail?**
 
-FPour le chercheur et économiste Gregory Verdugo _"Bien malin en vérité qui peut prédire ce qui sera techniquement automatisable"_. On pourrait chercher à automatiser toute notre société, mais ce serait notre choix et il faut se poser la question de la finalité d’un tel choix. Pour le moment, l’IA permet principalement de **faciliter le travail** de certains professionnels, mais à l’avenir cela dépendra de la façon dont nous choisirons collectivement d’organiser la société avec ces nouveaux outils.
+Pour le chercheur et économiste Gregory Verdugo _"Bien malin en vérité qui peut prédire ce qui sera techniquement automatisable"_. On pourrait chercher à automatiser toute notre société, mais ce serait notre choix et il faut se poser la question de la finalité d’un tel choix. Pour le moment, l’IA permet principalement de **faciliter le travail** de certains professionnels, mais à l’avenir cela dépendra de la façon dont nous choisirons collectivement d’organiser la société avec ces nouveaux outils.
 
 <center><img src="../Images/artificial-intelligence-2228610_1280.jpg" alt="Illustration brain" width="500"></center>
 

@@ -101,6 +101,6 @@ Si la question est celle de la responsabilité (_liability_) et la responsabilis
 
 **Auteurs:** 
 
-[**Sihem Amer-Yahia**](https://www.linkedin.com/in/sihem-amer-yahia-96072622/?originalSubdomain=fr) (DR CNRS INS2I, Univ. Grenoble-Alpes)
-[**Amélie Favreau**](https://www.linkedin.com/in/am%C3%A9lie-favreau-36b56b109/?originalSubdomain=fr) (MdC Droit Privé, Univ. Grenoble-Alpes) 
+[**Sihem Amer-Yahia**](https://www.linkedin.com/in/sihem-amer-yahia-96072622/?originalSubdomain=fr) (DR CNRS INS2I, Univ. Grenoble-Alpes)  
+[**Amélie Favreau**](https://www.linkedin.com/in/am%C3%A9lie-favreau-36b56b109/?originalSubdomain=fr) (MdC Droit Privé, Univ. Grenoble-Alpes)  
 [**Juliette Sénéchal**](https://pro.univ-lille.fr/juliette-senechal/) (MdC Droit Privé, Univ. de Lille)
