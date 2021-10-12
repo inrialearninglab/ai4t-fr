@@ -13,4 +13,4 @@ L'activité suivante consiste à identifier si une image est réelle ou produite
 **Vous voulez essayer?**  
 _Cliquez sur l'image ci-dessous et laissez-vous guider!_
 
-[![Tutorial3: IA or Human?](../Images/IA-M.3.2.1.png)](https://pixees.fr/classcodeiai/app/tuto3-ai4t?lang=en){:target="_blank" }
+[![Tutorial3: IA or Human?](../Images/IA-M.3.2.1.png)](https://pixees.fr/classcodeiai/app/tuto3-1/){:target="_blank" }
