@@ -15,4 +15,4 @@ Le Quiz du Module 3 est composé de 3 parties:
 
 _Cliquez sur l'image ci-dessous et lancez le quiz !_
 
-[![Quiz Module 3: Humans and AI](../Images/AI4T-quiz-module3.png)](Quiz-3-ressources/HTML/AI4T-quiz-module-3-lintelligence-artificielle-a-notre-service-html/index.html#/lessons/0BzyyBsBtYAMIu56G1E_wOoZGuIscZop){:target="_blank" }
+[![Quiz Module 3: Humains et IA](../Images/AI4T-quiz-module3.png)](Quiz-3-ressources/HTML/AI4T-quiz-module-3-lintelligence-artificielle-a-notre-service-html/index.html#/lessons/0BzyyBsBtYAMIu56G1E_wOoZGuIscZop){:target="_blank" }

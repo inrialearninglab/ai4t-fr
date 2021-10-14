@@ -1,6 +1,6 @@
 ![Logo](https://user-images.githubusercontent.com/5736114/133277346-2bf4460c-9a3d-48a7-a28c-6f81fc7f709c.png)
 
-This repository contains educational resources for acculturation of teachers in artificial intelligence. A view of the current content is available on https://inrialearninglab.github.io/ai4t/index.html website.
+This repository contains educational resources for acculturation of teachers in artificial intelligence. A view of the current content is available on https://inrialearninglab.github.io/ai4t-fr/index.html website.
 
 # How to use this repository
 
@@ -36,10 +36,10 @@ To download the entire resources package you can use the top right menu:
 ## How to access specific resources
 
 1. **Videos**  
-  The videos are hosted with their english subtitles on the [AI4T YouTube Channel](https://www.youtube.com/channel/UCBd_PgP_BdhmgdSzz5d83vQ) of the project created by the WP4 team. Videos files (mp4 format) as well as subtitles files (vtt or srt format) are unlisted (_therefore not visible_) but available if needed.
+  The videos are hosted with their french subtitles on the [AI4T YouTube Channel](https://www.youtube.com/channel/UCBd_PgP_BdhmgdSzz5d83vQ) of the project created by the WP4 team. Videos files (mp4 format) as well as subtitles files (vtt or srt format) are unlisted (_therefore not visible_) but available if needed.
 
 2. **Quiz**  
-  Each module of the Mooc contains a set of quizzes. They are hosted and presented on the website (https://inrialearninglab.github.io/ai4t/index.html).
+  Each module of the Mooc contains a set of quizzes. They are hosted and presented on the website (https://inrialearninglab.github.io/ai4t-fr/index.html).
   You can also download them from this repository in 3 formats: pdf, html or Scorm1.2 files (a format commonly used on Learning Management System as Moodle or 360Learning):
   * Quiz Module 1  
     [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/SCORM.zip)
@@ -79,7 +79,7 @@ To preview the website locally on **your computer** you need to install `python`
 
 In a terminal :
 
-1. Clone this repository `git clone https://github.com/inrialearninglab/ai4t.git`
+1. Clone this repository `git clone https://github.com/inrialearninglab/ai4t-fr.git`
 2. Change directory `cd ai4t`
 3. Run the local server : `mkdocs serve`
 
