@@ -15,4 +15,4 @@ Le Quiz du Module 2 est composé de 3 parties:
 
 _Cliquez sur l'image ci-dessous et lancez le quiz !_
 
-[![Quiz Module 2: Mechanisms in AI](../Images/AI4T-quiz-module2.png)](Quiz-2-ressources/HTML/AI4T-quiz-module2-how-does-machine-learning-works-html/index.html#/lessons/qXewvwMdbXR4wOOcKicXzWTXH44NeOmm){:target="_blank" }
+[![Quiz Module 2: Mechanisms in AI](../Images/AI4T-quiz-module2.png)](Quiz-2-ressources/HTML/AI4T-quiz-module-2-comment-fonctionne-lapprentissage-machine html/index.html#/lessons/qXewvwMdbXR4wOOcKicXzWTXH44NeOmm){:target="_blank" }
