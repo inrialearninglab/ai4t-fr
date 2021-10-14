@@ -15,5 +15,4 @@ Le Quiz du Module 1 est composé de 3 parties:
 
 _Cliquez sur l'image ci-dessous et lancez le quiz !_
 
-[![Quiz Module 1: Qui a peur de l'IA?](../Images/AI4T-quiz-module1.png)](Quiz-1-ressources/HTML/AI4T-quiz-module-1-qui-a-peur-de-l-ia-html/index.html#/lessons/kTdCJvqaYv_E9I8ipVGp2Zx59rc6UFlj
-){:target="_blank" }
+[![Quiz Module 1: Qui a peur de l'IA?](../Images/AI4T-quiz-module1.png)](Quiz-1-ressources/HTML/AI4T-quiz-module-1-qui-a-peur-de-l-ia-html/index.html#/lessons/PF5xCuVoGiZvOjMfCCsM81GNzFcSw0Wf){:target="_blank" }
