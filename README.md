@@ -42,13 +42,13 @@ To download the entire resources package you can use the top right menu:
   Each module of the Mooc contains a set of quizzes. They are hosted and presented on the website (https://inrialearninglab.github.io/ai4t-fr/index.html).
   You can also download them from this repository in 3 formats: pdf, html or Scorm1.2 files (a format commonly used on Learning Management System as Moodle or 360Learning):
   * Quiz Module 1  
-    [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/SCORM.zip)
+    [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/PDF/AI4T-quiz-module-1-qui-a-peur-de-l-ia-I3XBxXOh.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/HTML/AI4T-quiz-module-1-qui-a-peur-de-l-ia-html.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-1-what-is-meant-by-ai/1-4-quiz-module-1/Quiz-1-ressources/SCORM/AI4T-quiz-module-1-qui-a-peur-de-l-ia-scorm12-D4dqy_PI.zip)
 
   * Quiz Module 2  
-  [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/PDF/AI4T-quiz-module2-how-does-machine-learning-works.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/SCORM.zip)
+  [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/PDF/AI4T-quiz-module-2-comment-fonctionne-lapprentissage-machine-EiWfdkEU.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/HTML/AI4T-quiz-module-2-comment-fonctionne-lapprentissage-machine html.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-2-how-does-ml-work/2-4-quiz-module-2/Quiz-2-ressources/SCORM/AI4T-quiz-module-2-comment-fonctionne-lapprentissage-machine-scorm12-niOeaqC8.zip)
 
   * Quiz Module 3  
-    [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/PDF/AI4T-quiz-module3-artificial-intelligence-at-our-service.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/HTML.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/SCORM.zip)
+    [download pdf format](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/PDF/AI4T-quiz-module-3-lintelligence-artificielle-a-notre-service-9zJHGuWt.pdf) / [download html files zip](https://github.com/inrialearninglab/ai4t/raw/main/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/HTML/AI4T-quiz-module-3-lintelligence-artificielle-a-notre-service-html.zip) / [download Scorm1.2 files zip](https://github.com/inrialearninglab/ai4t/raw/main//Users/bcardon/Documents/AI4T/ai4t-fr/docs/module-3-AI-at-our-service/3-4-quiz-module-3/Quiz-3-ressources/SCORM/AI4T-quiz-module-3-lintelligence-artificielle-a-notre-service-scorm12-lKgG5hr2.zip)
 
 
 --------
@@ -57,7 +57,7 @@ To download the entire resources package you can use the top right menu:
 
 1. Fork this project in you own github space
 2. Make your changes
-3. After a few minutes, visit : https://[YOUR_LOGIN_OR_GROUPNAME].github.io/ai4t/
+3. After a few minutes, visit : https://[YOUR_LOGIN_OR_GROUPNAME].github.io/ai4t-fr/
 
 --------
 
@@ -80,7 +80,7 @@ To preview the website locally on **your computer** you need to install `python`
 In a terminal :
 
 1. Clone this repository `git clone https://github.com/inrialearninglab/ai4t-fr.git`
-2. Change directory `cd ai4t`
+2. Change directory `cd ai4t-fr`
 3. Run the local server : `mkdocs serve`
 
 After a few seconds, the website should be available at : http://localhost:8000
