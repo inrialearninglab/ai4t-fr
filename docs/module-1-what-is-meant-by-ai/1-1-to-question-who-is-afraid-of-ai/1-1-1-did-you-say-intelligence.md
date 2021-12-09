@@ -7,7 +7,7 @@ description:
 
 Plus qu’être imbattable pour effectuer une tâche de calcul mental, ou de jeu de Go, l’intelligence est la capacité d’un système vivant à comprendre, interpréter, apprendre et s’adapter aux changements.
 
-**Être intelligent c’est savoir trouver la réponse la plus adaptée à une problématique**,  pour cela, on s’appuie sur l’ensemble de nos facultés mentales et cognitives. e plus, l’intelligence est incarnée, c’est quelque chose indissociable de notre corps. Si l’on reprend l’exemple du jeu de Go, on fait appel à son intellect pour adapter sa stratégie de jeu à une situation, anticiper celle de son adversaire et trouver la meilleure combinaison pour emporter la partie. Mais alors, si en 2016 le programme Alpha Go a réussi à battre le champion coréen du jeu de Go, cela veut-il dire que les programmes informatiques sont plus intelligents que l’intelligence humaine ?
+**Être intelligent c’est savoir trouver la réponse la plus adaptée à une problématique**,  pour cela, on s’appuie sur l’ensemble de nos facultés mentales et cognitives. De plus, l’intelligence est incarnée, c’est quelque chose indissociable de notre corps. Si l’on reprend l’exemple du jeu de Go, on fait appel à son intellect pour adapter sa stratégie de jeu à une situation, anticiper celle de son adversaire et trouver la meilleure combinaison pour emporter la partie. Mais alors, si en 2016 le programme Alpha Go a réussi à battre le champion coréen du jeu de Go, cela veut-il dire que les programmes informatiques sont plus intelligents que l’intelligence humaine ?
 
 Bref, **quelle différence entre l’intelligence d’un être humain et celle d’une machine**?
 
