@@ -84,3 +84,6 @@ In a terminal :
 3. Run the local server : `mkdocs serve`
 
 After a few seconds, the website should be available at : http://localhost:8000
+
+## Contents and info speficic to the Mooc FR
+1. Tutorial to create and access account on Fun Campus

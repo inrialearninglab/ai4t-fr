@@ -3,7 +3,7 @@ title: D'où vient le risque ?
 description:
 ---
 
-[Article publié le 20 Février 2020 par binaire sur le site du Monde : "D’où vient le risque ? Des données et des algorithmes" - _Autheurs: Serge Abiteboul, Thierry Viéville_](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) 
+[Article publié le 20 Février 2020 par binaire sur le site du Monde : "D’où vient le risque ? Des données et des algorithmes"- _Auteurs: Serge Abiteboul, Thierry Viéville_](https://www.lemonde.fr/blog/binaire/2020/02/05/les-plateformes-numeriques-un-foyer-pour-les-risques-donnees-et-algorithmes/) 
 
 _La rencontre de chercheurs juristes et informaticiens dans le cadre du lancement du [Centre Internet et Société](http://cis.cnrs.fr/)  et du montage du GdR Internet et Société, a été l'occasion de réflexions croisées et de soulever nombre de questions et premières pistes de recherche à explorer ensemble. Cet article résume le résultat d’une table ronde. **Serge Abiteboul, Thierry Viéville.**_
 

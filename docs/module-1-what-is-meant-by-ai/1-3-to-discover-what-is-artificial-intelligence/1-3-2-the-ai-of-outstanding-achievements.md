@@ -12,7 +12,7 @@ La recherche en IA a permis de réaliser d'importants progrès dans la dernière
 *   la **résolution de jeux Atari** (Bricks, Space invaders, etc.) par Google DeepMind, utilisant les pixels images affichés à l'écran comme données d'entrée afin de décider quelle action adopter pour atteindre le plus haut score possible à la fin de la partie.
 *   la **victoire au jeu de Go**, par la même équipe, sur le meilleur joueur humain en une série de cinq matchs.
 *   la **description automatique du contenu d'une image** ("[Une image est plus parlante qu'un millier de mots](http://googleresearch.blogspot.fr/2014/11/a-picture-is-worth-thousand-coherent.html)"), également par Google.
-*   **es résultats du  [Imagenet's Large Scale Visualisation Challenge 2012](http://image-net.org/challenges/LSVRC/2012/results.html)**,  remporté par un très grand réseau neuronal convolutif développé par l'Université de Toronto, et entraîné avec des GPU de Nvidia
+*   **Les résultats du  [Imagenet's Large Scale Visualisation Challenge 2012](http://image-net.org/challenges/LSVRC/2012/results.html)**,  remporté par un très grand réseau neuronal convolutif développé par l'Université de Toronto, et entraîné avec des GPU de Nvidia
 *   la qualité des **systèmes de reconnaissance faciale** tels que ceux de Facebook
 *   etc...
 
@@ -30,7 +30,7 @@ Tout aussi fondamentaux sont les résultats obtenus dans des domaines tels que *
 *   **Schema.org** contient des millions de triplets RDF décrivant des faits connus : les moteurs de recherche peuvent utiliser ces données pour fournir des informations structurées sur demande ;
 *   **Facebook utilise le **protocole OpenGraph**  - qui s'appuie sur RDFa - pour permettre à n'importe quelle page web de devenir un objet enrichi dans un graphe social.
 
-Enfin, une autre tendance importante est la récente **uverture de plusieurs technologies auparavant propriétaires** afin que la communauté des chercheurs en IA puisse non seulement en bénéficier, mais aussi contribuer à les enrichir par de nouvelles fonctionnalités.
+Enfin, une autre tendance importante est la récente **ouverture de plusieurs technologies auparavant propriétaires** afin que la communauté des chercheurs en IA puisse non seulement en bénéficier, mais aussi contribuer à les enrichir par de nouvelles fonctionnalités.
 
 Comme exemples, on peut citer :
 
