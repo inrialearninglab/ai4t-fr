@@ -1,13 +1,6 @@
-# Version 4 : vidéos LA à relire LORIA/DANE Lorraine + trad EN - 21 juillet 2022
-
-- [vidéo originale](https://numavenir.com/levaluation-et-la-differenciation-pedagogique-par-le-numerique/)
-- [transcript original de la video](https://notes.inria.fr/Sfc1e2RXTaGm0jqYmuh5gw) - Attention transcription automatique
-- [1er travail de correction et organisation de la vidéo](https://notes.inria.fr/pC01ya18SuyEbl7UYqNrcw#)
+* Version 4 Une promenade en IA - trad EN - 27 juillet 2022
 
 
-:::spoiler Info
-Activité développée avec l'expertise d'Anne Boyer, chercheuse au LORIA (Laboratoire Lorrain de Recherche en Informatique et ses Applications -https://www.loria.fr/  & Lorraine Research Laboratory in Computer Science and its Applications https://www.loria.fr/en/) - et directrice de l'équipe de recherche - KIWI : Knoweldge in Information and Web Intelligence
-:::
 
 -----------
 ## Une promenade en Intelligence Artificielle
@@ -54,7 +47,7 @@ Selon la préférence de chacun, ces chemins vont être suivis seul ou avec le s
 
 **Alors, où et comment utiliser l'intelligence artificielle pour faire en sorte que chaque élève puisse suivre le parcours d'apprentissage qui lui est le mieux adapté ?**
 
-Ne peut-on faire comme les applications d'enregistrement de déplacement fournir une meilleure analyse, grâce à l'intelligence artificielle, des comportements numériques d'apprentissage et aller vers une personnalisation accrue.
+Ne peut-on faire comme les ~~applications d'enregistrement de déplacement~~ *(bracelets d'activité)* fournir une meilleure analyse, grâce à l'intelligence artificielle, des comportements numériques d'apprentissage et aller vers une personnalisation accrue.
 
 
 ### Vidéo 2 - L'observation de l'apprentissage de l'élève pour le guider vers la réussite
@@ -74,7 +67,7 @@ On peut doter l'élève d'outils qui vont lui permettre d'estimer où il est par
 
 On peut lui proposer des ressources additionnelles personnalisées qui vont lui permettre de mieux réussir son chemin d'apprentissage.
 
-**Et du point de vue de l'enseignant, comment les observations disponibles peuvent-elles l'aider à adapter son enseignement et sa pédagogie ?**
+**Et du point de vue de *(s)* l'enseignant, comment les observations disponibles peuvent-elles l *(es)* aider à adapter ~~son~~ *(leur)* enseignement et *(leur)* ~~sa~~ pédagogie ?**
 
 Avec un outil comme un tableau de bord, la visualisation et l'analyse des comportements numériques peuvent permettre aux enseignants de mieux comprendre ce qui se passe pour un élève ou un groupe d'élèves à un moment donné ou au cours du temps et, éventuellement, leur proposer des recommandations, des suggestions en utilisant des outils d'aide à la décision.
 Ces recommandations peuvent être associées à des explications pour permettre aux enseignants de décider s'ils vont les exploiter ou non.
