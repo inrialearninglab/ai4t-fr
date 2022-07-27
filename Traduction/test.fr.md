@@ -67,7 +67,7 @@ On peut doter l'élève d'outils qui vont lui permettre d'estimer où il est par
 
 On peut lui proposer des ressources additionnelles personnalisées qui vont lui permettre de mieux réussir son chemin d'apprentissage.
 
-**Et du point de vue des l'enseignant, comment les observations disponibles peuvent-elles les aider à adapter leur enseignement et leur  pédagogie ?**
+**Et du point de vue des enseignants, comment les observations disponibles peuvent-elles les aider à adapter leur enseignement et leur  pédagogie ?**
 
 Avec un outil comme un tableau de bord, la visualisation et l'analyse des comportements numériques peuvent permettre aux enseignants de mieux comprendre ce qui se passe pour un élève ou un groupe d'élèves à un moment donné ou au cours du temps et, éventuellement, leur proposer des recommandations, des suggestions en utilisant des outils d'aide à la décision.
 Ces recommandations peuvent être associées à des explications pour permettre aux enseignants de décider s'ils vont les exploiter ou non.
