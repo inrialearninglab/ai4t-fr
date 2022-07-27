@@ -7,8 +7,8 @@
 
 
 ### Intro (texte)
-Chacun d'entre nous, dans sa vie quotidienne, a pu constater que de nombreux sites Web sont capables de recommander un film ou un produit en fonction de ce que vous avez précédemment vu et aimé. Certains sont aussi capables de dire quel film vous pouvez aller voir avec votre famille, et quel autre avec tel groupe d'amis.
-Pourquoi ne pas s'en inspirer pour personnaliser les parcours d'apprentissage en proposant à l'enseignant des ressources éducatives pour un élève ou un groupe d'élèves ?
+Chacun d'entre nous, dans sa vie quotidienne, a pu constater que de nombreux sites Web sont capables de recommander un film ou un produit en fonction de ce que nous avons précédemment vu et aimé. Certains sites sont aussi capables de dire quel film nous pouvons aller voir avec notre famille, et quel autre avec tel groupe d'amis.
+Pourquoi ne pas s'inspirer de ces principes pour personnaliser les parcours d'apprentissage en proposant à l'enseignant des ressources éducatives adéquates pour un élève ou un groupe d'élèves ?
 
 Autre exemple. Sur notre smartphone, certaines applications permettent d'enregistrer nos déplacements, de mesurer le nombre de nos pas quotidiens, de visualiser et analyser quelle énergie nous avons consommée, quelles performances nous avons réalisées ou quel régime alimentaire nous devons suivre.
 
@@ -16,7 +16,7 @@ Le suivi d'activités ne serait-il pas aussi utile en enseignement pour mieux ce
 
 Ainsi, si de nombreux outils, dans des domaines très divers, permettent d'avoir des retours d'information, des synthèses, des prédictions voire des préconisations et des visualisations de toutes les analyses réalisées, pourquoi ne pas profiter de ces avancées technologiques en intelligence artificielle dans le domaine de l'éducation ?
 
-C'est ce que nous allons explorer au cours de ces trois vidéos d'introduction à l'intelligence artificielle et en particulier aux _learning analytics_, - ou l'analytique des apprentissages, qui sont une application majeur de l'IA en éducation et sont communément définies comme l'observation, l’analyse et la visualisation des comportements numériques de l’apprenant dans son activité en ligne d'apprentissage.
+C'est ce que nous allons explorer au cours de ces trois vidéos d'introduction à l'intelligence artificielle et en particulier aux _learning analytics_, - ou l'analytique des apprentissages, qui sont une application majeure de l'IA en éducation. Celles-ci sont communément définies comme l'observation, l’analyse et la visualisation des comportements numériques de l’apprenant dans son activité en ligne d'apprentissage.
 
 --> ouverture vers d'autres applications de l'IA (texte d'Anne à fournir avant fin septembre 2022)
 
@@ -26,7 +26,7 @@ C'est ce que nous allons explorer au cours de ces trois vidéos d'introduction �
 Si l'on accepte d'adopter volontairement une vision un peu caricaturale, on peut dire que l'école, au sens large, propose des formations que l'on peut représenter comme des couloirs de course, bien tracés, avec un point d'entrée, qui est celui par lequel on entre dans le système éducatif, et un objectif plus ou moins lointain, qui est celui de notre sortie, à terme, vers le monde professionnel.
 
 Ces couloirs sont relativement bien tracés, bien clairs, bien définis. Et ils sont prévus pour des élèves qui, eux, sont prêts à les suivre.
-Ils sont bien alignés, bien calés dans les starting blocks et prêts à prendre le départ pour travailler efficacement.
+Les élèves sont bien alignés, bien calés dans les starting blocks et prêts à prendre le départ pour travailler efficacement.
 
 Bien sûr, nous sommes tous conscients, et les acteurs des systèmes éducatifs particulièrement, que pour certains élèves, ce couloir relève d'une course d'obstacles avec des difficultés parfois importantes.
 Certains vont décrocher. D'autres, heureusement, vont réussir.
@@ -45,17 +45,17 @@ Bien sûr chaque élève va construire son propre chemin d'apprentissage, et tou
 Selon la préférence de chacun, ces chemins vont être suivis seul ou avec le soutien d'autres élèves ou accompagnateurs.
 
 
-**Alors, où et comment utiliser l'intelligence artificielle pour faire en sorte que chaque élève puisse suivre le parcours d'apprentissage qui lui est le mieux adapté ?**
+**Alors, où et comment utiliser l'intelligence artificielle pour faire en sorte que chaque élève puisse suivre le parcours d'apprentissage qui lui est le mieux adapté et lui permettra de réussir ?**
 
-Ne peut-on faire comme les applications d'enregistrement de déplacement  fournir une meilleure analyse, grâce à l'intelligence artificielle, des comportements numériques d'apprentissage et aller vers une personnalisation accrue.
+Ne peut-on faire comme les applications d'enregistrement de déplacement ? C'est à dire fournir une meilleure analyse des comportements numériques d'apprentissage et aller vers une personnalisation accrue.
 
 
 ### Vidéo 2 - L'observation de l'apprentissage de l'élève pour le guider vers la réussite
 
 De nombreuses traces numériques sont laissées par les apprenants lorsqu'ils utilisent des outils numériques.
 
-Tout d'abord, il y a toutes les traces que nous laissons naturellement, sans faire quoi que ce soit. Par exemple, en accédant à un service, à un serveur, nous laissons une trace de notre connexion à ce service. Il y a aussi toutes les traces laissées volontairement, en écrivant, en laissant des commentaires ou en évaluant avec des étoiles, par exemple. Il y a aussi les données associées aux performances ou résultats obtenus dans un environnement numérique d’apprentissage.
-Tout cela génère un ensemble d'informations qui peuvent être analysées par les technologies d'intelligence artificielle.
+Tout d'abord, il y a toutes les traces qu'ils laissent naturellement, sans faire quoi que ce soit. Par exemple, en accédant à un service, à un serveur, ils laissent une trace de leur connexion à ce service. Il y a aussi toutes les traces laissées volontairement, en écrivant, en laissant des commentaires ou en évaluant avec des étoiles, par exemple. Il y a aussi les données associées aux performances ou résultats obtenus dans un environnement numérique d’apprentissage.
+Tout cela génère un ensemble de données qui peuvent être analysées par les technologies d'intelligence artificielle.
 
 **La question que l'on peut alors se poser : Comment est-il possible d'analyser cet ensemble d'informations pour aider les élèves dans leurs apprentissages et les enseignants dans leur pédagogie ?**
 
@@ -63,23 +63,23 @@ Si on fait un parallèle avec l'entraînement sportif, on peut modéliser des in
 
 **Ne peut-on imaginer, grâce à l'intelligence artificielle, des outils similaires dans le contexte éducatif ?**
 
-On peut doter l'élève d'outils qui vont lui permettre d'estimer où il est par rapport au comportement qu'il devrait avoir, par rapport aux erreurs qu'il a pu commettre mais aussi par rapport à tous les succès qu'il a pu rencontrer. Il est aussi possible de lui fournir un certain nombre d'informations complémentaires, en utilisant des modèles prédictifs.
+On peut doter les élève d'outils qui vont leur permettre d'estimer où ils se situent par rapport au comportement qu'ils devraient avoir, par rapport aux erreurs qu'ils ont pu commettre mais aussi par rapport à tous les succès qu'ils ont pu rencontrer. Il est aussi possible de leur fournir un certain nombre d'informations complémentaires, en utilisant des modèles prédictifs.
 
-On peut lui proposer des ressources additionnelles personnalisées qui vont lui permettre de mieux réussir son chemin d'apprentissage.
+On peut, par exemple, leur proposer des ressources additionnelles personnalisées qui vont leur permettre de mieux réussir leur chemin d'apprentissage.
 
 **Et du point de vue des enseignants, comment les observations disponibles peuvent-elles les aider à adapter leur enseignement et leur  pédagogie ?**
 
-Avec un outil comme un tableau de bord, la visualisation et l'analyse des comportements numériques peuvent permettre aux enseignants de mieux comprendre ce qui se passe pour un élève ou un groupe d'élèves à un moment donné ou au cours du temps et, éventuellement, leur proposer des recommandations, des suggestions en utilisant des outils d'aide à la décision.
+Avec un outil comme un tableau de bord, la visualisation et l'analyse des comportements numériques peuvent permettre aux enseignants de mieux comprendre ce qui se passe pour un élève ou un groupe d'élèves à un moment donné ou au cours du temps. Ce tableau de bord permet, éventuellement, de proposer des recommandations, des suggestions en utilisant des outils d'aide à la décision.
 Ces recommandations peuvent être associées à des explications pour permettre aux enseignants de décider s'ils vont les exploiter ou non.
 
-**Et finalement, tout cet ensemble d'observations peut-il également permettre à l'institution de mieux s'organiser, de se renouveler, et de ne plus avoir ces couloirs aussi bien tracés, mais des trajets plus vallonnés, un peu plus tourmentés, voire, surtout, beaucoup plus individualisés ?**
+**Et finalement, tout cet ensemble d'observations peut-il également permettre à l'institution de mieux s'organiser, se renouveler, et ne plus avoir ces couloirs aussi bien tracés, mais des trajets plus vallonnés, un peu plus tourmentés, voire, surtout, beaucoup plus individualisés ?**
 
 
 ### Vidéo 3 - Analytique de l'apprentissage
 
 Les enseignants sont encouragés à utiliser les nouvelles technologies. Les élèves aussi bien sûr. Et tout un écosystème numérique se développe autour de l'enseignant et de l'élève.
 
-L'usage du numérique se matérialise par des dispositifs d'accès de plus en plus présents : des tablettes, des ordinateurs et bien sûr l’accès wifi. Cet environnement numérique permet d'accéder à l'information, aux environnements d'apprentissage, aux espaces numériques de travail, aux cahiers de texte électroniques, aux relevés de notes, au livret scolaire numérique et à encore bien d'autres informations et outils.
+L'usage du numérique se matérialise par des dispositifs d'accès de plus en plus présents : des tablettes, des ordinateurs et bien sûr l’accès au wifi. Cet environnement numérique permet d'accéder à l'information, aux environnements d'apprentissage, aux espaces numériques de travail, aux cahiers de texte électroniques, aux relevés de notes, au livret scolaire numérique et à encore bien d'autres informations et outils.
 À toute cette offre s'ajoutent les contenus pédagogiques en ligne : des manuels ou des contenus éventuellement libres comme les ressources éducatives libres.
 
 Bien sûr, tous ces matériels et toutes ces ressources ne se substituent pas à la richesse de l'interaction entre l'enseignant et l'apprenant.
@@ -88,13 +88,13 @@ Tout d'abord, un certain nombre de choses se passent de l'autre côté d'une pla
 Ensuite, les enseignants sont habitués à capter un certain nombre d'indices dans une salle de classe mais ne sont pas formés, pas habitués à les percevoir de la même manière lorsqu'ils passent par l'intermédiaire des outils numériques.
 
 Les indices que les enseignants sont amenés à percevoir en situation réelle dans une salle de classe sont notamment ceux de l'engagement et de la motivation.
-Par exemple, on peut s'apercevoir s'il y a un élève endormi. Quand le niveau sonore monte on est capable de percevoir qu'il se passe quelque chose. Quand toutes les têtes sont baissées pendant une explication d'un concept au tableau, on peut dire qu'il y a quelque chose de pas naturel qui se passe.
+Par exemple, on peut s'apercevoir s'il y a un élève endormi. Quand le niveau sonore monte on est capable de percevoir qu'il se passe quelque chose. Quand toutes les têtes sont baissées pendant une explication d'un concept au tableau, on peut dire qu'il se passe quelque chose d'inhabituel.
 Même si de très nombreuses explications sont possibles, être en mesure de capter ces indices ou cette absence d'indices est important.
-Quand l'élève n'est plus en face de l'enseignant, comment voir qu'il est en train de décrocher, qu'il n'est plus capable de suivre, soit parce que c'est trop compliqué ou non adapté à la forme d'apprentissage qui lui convient, soit, tout simplement, parce qu'il ne comprend pas pourquoi il doit suivre cet enseignement.
+Quand l'élève n'est plus en face de l'enseignant, comment voir qu'il est en train de décrocher, qu'il n'est plus capable de suivre, soit parce que c'est trop compliqué ou non adapté à la forme d'apprentissage qui lui convient, ou, tout simplement, qu'il ne comprend pas pourquoi il doit suivre cet enseignement.
 
 C'est notamment sur ces points-là, comme l'engagement ou la motivation, que l'exploitation des traces numériques par des technologies d'IA peut aider l'enseignant, tout comme l'élève.
 
-De façon plus générale, selon le modèle de Gartner, les technologies de l'IA, de la plus basique aux plus avancées, peuvent aider l'enseignant à décrire (qu'est-il arrivé ?), diagnostiquer (pourquoi est-ce arrivé ?), prédire (que va t-il se produire ?) ou prescrire (comment agir selon l'évolution possible ?) une situation d'apprentissage pour mieux l'adapter à un élève ou un groupe d'élèves.
+De façon plus générale, selon le modèle de Gartner, les technologies de l'IA, de la plus basique aux plus avancées, peuvent aider l'enseignant à décrire (qu'est-il arrivé ?), diagnostiquer (pourquoi est-ce arrivé ?), prédire (que va t-il se produire ?) ou prescrire (comment agir selon l'évolution possible ?) une situation d'apprentissage pour mieux l'adapter ensuite à un élève ou un groupe d'élèves.
 
 
 
