@@ -47,7 +47,7 @@ Selon la préférence de chacun, ces chemins vont être suivis seul ou avec le s
 
 **Alors, où et comment utiliser l'intelligence artificielle pour faire en sorte que chaque élève puisse suivre le parcours d'apprentissage qui lui est le mieux adapté ?**
 
-Ne peut-on faire comme les ~~applications d'enregistrement de déplacement~~ *(bracelets d'activité)* fournir une meilleure analyse, grâce à l'intelligence artificielle, des comportements numériques d'apprentissage et aller vers une personnalisation accrue.
+Ne peut-on faire comme les applications d'enregistrement de déplacement  fournir une meilleure analyse, grâce à l'intelligence artificielle, des comportements numériques d'apprentissage et aller vers une personnalisation accrue.
 
 
 ### Vidéo 2 - L'observation de l'apprentissage de l'élève pour le guider vers la réussite
@@ -67,7 +67,7 @@ On peut doter l'élève d'outils qui vont lui permettre d'estimer où il est par
 
 On peut lui proposer des ressources additionnelles personnalisées qui vont lui permettre de mieux réussir son chemin d'apprentissage.
 
-**Et du point de vue de *(s)* l'enseignant, comment les observations disponibles peuvent-elles l *(es)* aider à adapter ~~son~~ *(leur)* enseignement et *(leur)* ~~sa~~ pédagogie ?**
+**Et du point de vue des l'enseignant, comment les observations disponibles peuvent-elles les aider à adapter leur enseignement et leur  pédagogie ?**
 
 Avec un outil comme un tableau de bord, la visualisation et l'analyse des comportements numériques peuvent permettre aux enseignants de mieux comprendre ce qui se passe pour un élève ou un groupe d'élèves à un moment donné ou au cours du temps et, éventuellement, leur proposer des recommandations, des suggestions en utilisant des outils d'aide à la décision.
 Ces recommandations peuvent être associées à des explications pour permettre aux enseignants de décider s'ils vont les exploiter ou non.
